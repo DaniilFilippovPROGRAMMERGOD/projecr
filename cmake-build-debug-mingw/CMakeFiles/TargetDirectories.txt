@@ -1,0 +1,7 @@
+C:/Users/dan/CLionProjects/untitled/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/dan/CLionProjects/untitled/cmake-build-debug-mingw/CMakeFiles/untitled.dir
+C:/Users/dan/CLionProjects/untitled/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+C:/Users/dan/CLionProjects/untitled/cmake-build-debug-mingw/doctest/CMakeFiles/tests.dir
+C:/Users/dan/CLionProjects/untitled/cmake-build-debug-mingw/doctest/CMakeFiles/rebuild_cache.dir
+C:/Users/dan/CLionProjects/untitled/cmake-build-debug-mingw/doctest/CMakeFiles/doctest.dir
+C:/Users/dan/CLionProjects/untitled/cmake-build-debug-mingw/doctest/CMakeFiles/edit_cache.dir
