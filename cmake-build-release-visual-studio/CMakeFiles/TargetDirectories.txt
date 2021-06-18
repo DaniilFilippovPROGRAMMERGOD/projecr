@@ -1,7 +1,0 @@
-C:/Users/dan/CLionProjects/untitled/cmake-build-release-visual-studio/CMakeFiles/edit_cache.dir
-C:/Users/dan/CLionProjects/untitled/cmake-build-release-visual-studio/CMakeFiles/untitled.dir
-C:/Users/dan/CLionProjects/untitled/cmake-build-release-visual-studio/CMakeFiles/rebuild_cache.dir
-C:/Users/dan/CLionProjects/untitled/cmake-build-release-visual-studio/doctest/CMakeFiles/tests.dir
-C:/Users/dan/CLionProjects/untitled/cmake-build-release-visual-studio/doctest/CMakeFiles/rebuild_cache.dir
-C:/Users/dan/CLionProjects/untitled/cmake-build-release-visual-studio/doctest/CMakeFiles/doctest.dir
-C:/Users/dan/CLionProjects/untitled/cmake-build-release-visual-studio/doctest/CMakeFiles/edit_cache.dir

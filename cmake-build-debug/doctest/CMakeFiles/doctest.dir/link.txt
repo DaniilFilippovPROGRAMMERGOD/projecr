@@ -1,2 +1,0 @@
-C:\MinGW\mingw64\bin\ar.exe qc libdoctest.a CMakeFiles/doctest.dir/doctest.cpp.obj
-C:\MinGW\mingw64\bin\ranlib.exe libdoctest.a

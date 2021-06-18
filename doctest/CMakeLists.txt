@@ -3,7 +3,6 @@ project(doctest)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(tests ../test_main.cpp)
 
 add_library(doctest STATIC doctest.cpp)
 # depend on some obvious c++11 features so the dependency is transitively added dependents
